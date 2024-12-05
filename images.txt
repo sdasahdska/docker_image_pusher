@@ -1,1 +1,1 @@
-alibabadragonwell/dragonwell:17-anolis
+mysql/mysql-server:8.0.32
